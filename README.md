@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 My name is Anna.\
-:woman_technologist: I am a aspiring front-end developer. \
-🌱 I’m currently learning JavaScript and REACT.\
+:woman_technologist: I am a Junior WebUI Dev. \
+🌱 I’m currently working in Angular. 
 
 <!--
 **annakocot/annakocot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
