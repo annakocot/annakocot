@@ -2,8 +2,7 @@
 
 My name is Anna.\
 :woman_technologist: I am a Front End Dev. \
-🔭 Currently working in Angular \
-:superhero_woman: but outside of work I also do some React, GatsbyJS and learning NextJS. \
+🔭 Currently working in Angular but outside of work I also do some React, GatsbyJS and learning NextJS. \
 📫 Reach me @ annakocot@tutamail.com or [LinkedIn](https://www.linkedin.com/in/anna-kocot/)\
 :house: P.S. I love my home office and never intend to leave.
 
