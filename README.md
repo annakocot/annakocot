@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-My name is Anna.\
-:woman_technologist: I am a Front End Dev. \
-🔭 I am Angular girl but also know some React, GatsbyJS and NextJS. \
-📫 Reach me @ annakocot@tutamail.com or [LinkedIn](https://www.linkedin.com/in/anna-kocot/)\
+:woman_technologist: My name is Anna and I am a Front End Engineer based in Poland.\
+🗾 I speak Japanese and JavaScript.\
+🔭 I work commercially mostly in Angular but I do some React on the side. \
+:mag_right: Currently looking for new exciting oportunities! \
+📫 Reach me @ annakocot@tutamail.com or [LinkedIn](https://www.linkedin.com/in/anna-kocot/)
 
 
 <!--
