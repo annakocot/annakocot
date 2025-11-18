@@ -1,9 +1,4 @@
-### Hi there 👋
 
-:woman_technologist: My name is Anna and I am a Front End Magician and CEO of my very first company based in Poland.\
-:speech_balloon: I translate tech to human and do tech consults.\
-:iphone: In [Moranapps](https://github.com/Moranapps) we build mobile applications (and sometimes mobile-friendly web solutions).\
-📫 Reach me @ annakocot@moranapps.com or [LinkedIn](https://www.linkedin.com/in/anna-kocot/)
 
 
 <!--
